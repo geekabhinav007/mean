@@ -89,3 +89,29 @@ We assume that you have installed Node.js. Now, we need to check the Node.js and
 (base) geek@g3:~$ node -v
 v18.14.1
 ```
+
+That's the Node.js and NPM version that we are using.
+
+```bash
+sudo npm install -g @angular/cli
+```
+
+Next, create a new Angular Web Application using this Angular CLI command.
+
+```bash
+ng new meanTutorial
+```
+
+Next, go to the newly created Angular project folder.
+
+```bash
+cd meanTutorial
+```
+
+Now, run the new Angular web application using this command.
+
+```bash
+ng serve 
+```
+
+Open the browser then go to this address `localhost:4200` and you will see this page.
