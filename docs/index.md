@@ -78,3 +78,14 @@ npm install mean-cli --save
 ### Getting Started
 
 To get started with the MEAN stack, you can follow the [MEAN Stack Tutorial](https://www.djamware.com/post/5a9c9d4080aca7059c14297a/mean-stack-angular-6-crud-web-application).
+
+## MEAN Stack Tutorial (Lesson 1)
+
+We assume that you have installed Node.js. Now, we need to check the Node.js and NPM versions. Open the terminal or Node command line then type this commands.
+
+```bash
+(base) geek@g3:~$ npm -v
+9.3.1
+(base) geek@g3:~$ node -v
+v18.14.1
+```
